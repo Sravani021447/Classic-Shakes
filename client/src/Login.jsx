@@ -1,7 +1,7 @@
 import { useState } from "react";
 import axios from "axios";
 
-const API = "http://localhost:5000/api";
+const API = "https://classic-shakes-backend.onrender.com/api";
 
 export default function Login({ onLogin }) {
   const [form, setForm] = useState({ email: "", password: "" });

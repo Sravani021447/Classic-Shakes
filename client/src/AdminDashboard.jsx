@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import axios from "axios";
 
-const API = "http://localhost:5000/api";
+const API = "https://classic-shakes-backend.onrender.com/api";
 
 export default function AdminDashboard({ user, onLogout }) {
   const [orders, setOrders] = useState([]);
