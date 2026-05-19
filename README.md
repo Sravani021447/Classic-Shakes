@@ -6,6 +6,7 @@ A premium milkshake ordering app built with the MERN stack.
 - **Frontend:** https://classic-shakes.vercel.app
 - **Backend API:** https://classic-shakes-backend.onrender.com
 - **GitHub:** https://github.com/Sravani021447/Classic-Shakes
+- **Live Demo:** https://classic-shakes.vercel.app
 
 ## 👨‍💼 Admin Features
 - Register & Login
